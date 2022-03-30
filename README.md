@@ -13,8 +13,8 @@
 <!-- PODE MUDAR O TEMA DAS IMG DA DIV ABAIXO ATRAVÉS DO https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <div align="center">
-  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api?username=Gustavo-R-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-R-Oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Gustavo-R-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="height:10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-R-Oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   </div>
