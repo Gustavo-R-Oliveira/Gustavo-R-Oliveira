@@ -10,15 +10,11 @@
 - 🔧 I am always looking to learn new technologies;
 - 📫 How to reach me gustavo.oliveiraa@gmail.com;
 - 🇧🇷  Living in Brazil;
-<!-- PODE MUDAR O TEMA DAS IMG DA DIV ABAIXO ATRAVÉS DO https://github.com/anuraghazra/github-readme-stats -->
-<!-- <div style="display: flex;
-    justify-content: center;
-    flex-direction: row;
-    align-items: center;
-    gap: 1rem;"> -->
+<!-- PODE MUDAR O TEMA DAS IMG DA DIV ABAIXO ATRAVÉS DO https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
 <div align="center">
-  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api?username=Gustavo-R-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-R-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api?username=Gustavo-R-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="height:12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-R-Oliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   </div>
