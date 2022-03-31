@@ -1,14 +1,9 @@
 <div align="center">
-		<img src="header.svg" width="600" height="60" >
+		<img src="header.svg"  >
 </div>
 
 ##
 <br>
-<br>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Gustavo-R-Oliveira)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-oliveira/)
-[![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustavo.oliveiraa@gmail.com)
 
 - 👋 Hi, I’m Gustavo Rodrigues Oliveira 😀;
 - 🎓 I got my degree in Information Systems;
@@ -37,11 +32,14 @@
 </div>
 
 #
+<br>
  
 <div>
   <a href="https://www.instagram.com/gustavor.o1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mailto:gustavo.oliveiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-rodrigues-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/Gustavo-R-Oliveira/Gustavo-R-Oliveira/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/Gustavo-R-Oliveira/Gustavo-R-Oliveira/blob/output/github-contribution-grid-snake.svg"  >
+	</div>
+<!-- ![Snake animation](https://github.com/Gustavo-R-Oliveira/Gustavo-R-Oliveira/blob/output/github-contribution-grid-snake.svg) -->
