@@ -1,10 +1,6 @@
 ### Hi there 👋
 <div align="center">
-	<br>
-	<a href="https://github.com/Gustavo-R-Oliveira/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="600" height="170" alt="Click to see the source">
-	</a>
-	<br>
+		<img src="header.svg" width="600" height="170" >
 </div>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Gustavo-R-Oliveira)
