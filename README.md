@@ -1,7 +1,10 @@
-### Hi there 👋
 <div align="center">
 		<img src="header.svg" width="600" height="170" >
 </div>
+
+##
+<br>
+<br>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Gustavo-R-Oliveira)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-oliveira/)
