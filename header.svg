@@ -2,21 +2,55 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+                 * {
+                      margin: 0;
+                      padding: 0;
+                      box-sizing: border-box;
+                 }
 
-            @keyframes mymove {
-                from {
-                    color: red;
+                .body {
+                     display: flex;
+                     align-items: center;
+                     justify-content: center;
+                     height: 100vh;
+                     background-color: #0d1117;
                 }
-                to {
-                    color: yellow;
+
+               .line {
+                     border-right: 2px solid rgba(255, 255, 255, 0.75);
+                     color: #c9d1d9;
+                     font-family: "Special Elite", monospace;
+                     font-size: 2rem;
+                     text-align: center;
+                     white-space: nowrap;
+                     overflow: hidden;
                 }
-            }
+
+                .typing-animation {
+                     animation: pisca 600ms infinite normal,
+                     typing 3.2s steps(40) 1s normal both;
+                }
+                 
+                @keyframes typing {
+                     from {
+                          width: 0;
+                     }
+                     to {
+                          width: 34.5rem;
+                     }
+                }
+                @keyframes pisca {
+                     from {
+                          border-right-color: rgba(255, 255, 255, 0.75);
+                     }
+                     to {
+                          border-right-color: transparent;
+                     }
+                }               
             </style>
-            <h1>HELLO WORLD!</h1>
+            <div class="body">
+                <p class="line typing-animation">Olá, eu sou Gustavo R. Oliveira =)</p>
+            </div>
         </div>
     </foreignObject>
 </svg>
