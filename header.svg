@@ -36,7 +36,7 @@
                           width: 0;
                      }
                      to {
-                          width: 44.5rem;
+                          width: 47.5rem;
                      }
                 }
                 @keyframes pisca {
